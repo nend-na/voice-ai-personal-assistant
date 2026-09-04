@@ -265,3 +265,4 @@ function describeToolStart(toolName: string): string {
   };
   return labels[toolName] ?? `Running ${toolName}...`;
 }
+
